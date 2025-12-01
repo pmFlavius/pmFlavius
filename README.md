@@ -2,9 +2,9 @@
 <h3 align="center">I'm a student from Romania.</h3>
 
 
-- 🌱 I’m currently learning **OS**
+- 🌱 I’m currently learning **Operating Systems**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Data Structures/ Object Oriented Programing , etc**
 
 - 📫 How to reach me **mihaiflavius303@gmail.com**
 
